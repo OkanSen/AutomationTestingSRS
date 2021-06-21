@@ -21,4 +21,10 @@ location of the file it needs to get, it will be set to http://localhost/project
 is the name of the php file by default, which is not an issue if the above steps were followed properly 
 and the folder was located inside the htdocs folder. 
 
+Before testing the project using automation, two entries should be added to the database manually.
+1 - id - 21202377, password "asd1asd", email okan.sen@ug.bilkent.edu.tr
+2 - id - 21701610, password "asdasdasd", email hassam.abdullah@ug.bilkent.edu.tr
+
+These entries will be used for correct logins to the system.
+
 GitHub Page: https://github.com/OkanSen/AutomationTestingSRS
