@@ -1,0 +1,6 @@
+okan.senug.bilkent.edu.tr	asdasd	asdasd	//no @ sign in email
+ 	asdasd	asdasd	//empty email or password
+stephen.hawking@ug.bilkent.edu.tr	asd	asd	// password shorter than 6 characters
+okan.sen@ug.bilkent.edu.tr	asd1asd	asd1asd	//email already registered
+okan.sen@ug.bilkent.edu.tr	asd1asd	asdasd	//passwords dont matchs
+stephen.hawking@ug.bilkent.edu.tr	asdasd	asdasd	//correct registration

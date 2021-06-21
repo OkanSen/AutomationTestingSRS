@@ -1,0 +1,14 @@
+abcdefga	abdf	//must be integer
+210abcde	asd	//must be integer
+        	 	//must not be empty space
+2200300200	password	//must be length 8
+21603960	1234py	//wrong combination id/pass
+		//no blank
+111111111111111111111111111111111111111111111111111111111111111111111111111111111	1	//must be less than 40
+21202377	asd1asd	//correct entry
+testcase	2
+23202377	qwerty
+25889293	password
+29393933	abcdefgh
+21701610	asdasdasd
+testcase	5

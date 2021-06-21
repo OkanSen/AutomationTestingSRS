@@ -1,0 +1,6 @@
+1 - string for id 
+2 - blank entries
+3 - id length 
+4 - incorrect/correct 
+5 - white space empty
+6 - id or password should be less than 40 chars
