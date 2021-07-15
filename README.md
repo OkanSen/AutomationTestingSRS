@@ -1,6 +1,6 @@
 # AutomationTestingSRS
 The project is named Project1 and contains 5 php files that contain the Php, Javascript and Html 
-code for the individual pages that will be loaded. The only exception, is the server.php file 
+code for the individual pages that will be loaded. The only exception, is the server.php file,
 that contains only Php code and is included by the registration and login php files for server 
 to client and database communication. 
 
